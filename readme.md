@@ -35,13 +35,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/project_ai_summarizer.git
-cd project_ai_summarizer
-```
-
 **Installation**
 
 Install the project dependencies using npm:
@@ -211,6 +204,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ```
 
 </details>
+
+Idea and Repo Inspiration - https://github.com/adrianhajdin/project_ai_summarizer.git
 
 ## <a name="links">🔗 Links</a>
 
